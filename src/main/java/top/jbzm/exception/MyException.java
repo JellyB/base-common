@@ -2,13 +2,15 @@ package top.jbzm.exception;
 
 import top.jbzm.common.ErrorResult;
 
+import java.io.Serializable;
+
+
 /**
  * @author jbzm
  * @date Create on 2018/3/2 12:03
  */
-public class MyException extends RuntimeException {
+public class MyException extends RuntimeException implements Serializable {
 
-    private static final long serialVersionUID = 1L;
     private ErrorResult errorResult;
     private String customMessage;//个性化信息
 

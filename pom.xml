@@ -26,6 +26,8 @@
             <artifactId>guava</artifactId>
         </dependency>
     </dependencies>
-
+<build>
+    <defaultGoal>compile</defaultGoal>
+</build>
 
 </project>
