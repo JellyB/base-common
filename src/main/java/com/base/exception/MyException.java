@@ -1,6 +1,6 @@
-package top.jbzm.exception;
+package com.base.exception;
 
-import top.jbzm.common.ErrorResult;
+import com.base.common.ErrorResult;
 
 import java.io.Serializable;
 

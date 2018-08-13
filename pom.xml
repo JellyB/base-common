@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>top.jbzm</groupId>
+        <groupId>com.ht.base</groupId>
         <artifactId>parent-base</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>top.jbzm.common</groupId>
+    <groupId>com.ht.base.common</groupId>
     <artifactId>base-common</artifactId>
     <version>1.0-${project.environment}-SNAPSHOT</version>
 

@@ -1,4 +1,4 @@
-package top.jbzm.common.area;
+package com.base.common.area;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;

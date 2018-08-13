@@ -1,4 +1,4 @@
-package top.jbzm.common;
+package com.base.common;
 
 /**
  * 返回成功提示信息

@@ -1,4 +1,4 @@
-package top.jbzm.common.area;
+package com.base.common.area;
 
 import java.util.ArrayList;
 import java.util.List;

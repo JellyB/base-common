@@ -1,4 +1,4 @@
-package top.jbzm.common.area;
+package com.base.common.area;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

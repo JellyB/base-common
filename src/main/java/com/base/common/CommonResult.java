@@ -1,4 +1,4 @@
-package top.jbzm.common;
+package com.base.common;
 
 /**
  * //TODO 归并success分类为SuccessResult

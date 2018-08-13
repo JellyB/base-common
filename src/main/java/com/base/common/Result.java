@@ -1,4 +1,4 @@
-package top.jbzm.common;
+package com.base.common;
 
 
 import java.io.Serializable;

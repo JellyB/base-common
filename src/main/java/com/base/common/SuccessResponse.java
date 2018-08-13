@@ -1,4 +1,4 @@
-package top.jbzm.common;
+package com.base.common;
 
 /**
  * 正常响应
