@@ -1,4 +1,4 @@
-package com.base.common;
+package com.ht.base.common;
 
 /**
  * 正常响应

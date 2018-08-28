@@ -1,4 +1,4 @@
-package com.base.common;
+package com.ht.base.common;
 
 /**
  * //TODO 归并success分类为SuccessResult

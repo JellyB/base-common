@@ -1,4 +1,4 @@
-package com.base.common.area;
+package com.ht.base.common.area;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;

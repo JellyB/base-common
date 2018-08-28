@@ -1,4 +1,4 @@
-package com.base.common;
+package com.ht.base.common;
 
 
 import java.io.Serializable;

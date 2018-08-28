@@ -14,20 +14,14 @@
     <artifactId>base-common</artifactId>
     <version>1.0-${project.environment}-SNAPSHOT</version>
 
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <jdk.version>1.8</jdk.version>
-    </properties>
-
     <dependencies>
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
         </dependency>
     </dependencies>
-<build>
-    <defaultGoal>compile</defaultGoal>
-</build>
+    <build>
+        <defaultGoal>compile</defaultGoal>
+    </build>
 
 </project>

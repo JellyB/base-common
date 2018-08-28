@@ -1,4 +1,4 @@
-package com.base.common;
+package com.ht.base.common;
 
 /**
  * 返回成功提示信息

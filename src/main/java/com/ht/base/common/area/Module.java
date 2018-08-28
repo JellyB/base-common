@@ -1,4 +1,4 @@
-package com.base.common.area;
+package com.ht.base.common.area;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

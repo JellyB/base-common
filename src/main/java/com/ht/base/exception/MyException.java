@@ -1,6 +1,6 @@
-package com.base.exception;
+package com.ht.base.exception;
 
-import com.base.common.ErrorResult;
+import com.ht.base.common.ErrorResult;
 
 import java.io.Serializable;
 
