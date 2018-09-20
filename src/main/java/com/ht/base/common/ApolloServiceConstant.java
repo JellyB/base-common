@@ -14,4 +14,5 @@ public class ApolloServiceConstant {
     public static final String RABBITMQ = "tiku.rabbitmq";
     public static final String MONGO = "tiku.mongo-cluster";
     public static final String TIKU_DB = "tiku.db";
+    public static final String TIKU_REDIS = "tiku.redis-cluster";
 }

@@ -12,7 +12,7 @@
 
     <groupId>com.ht.base.common</groupId>
     <artifactId>base-common</artifactId>
-    <version>1.0-${project.environment}-SNAPSHOT</version>
+    <version>${default.version}</version>
 
     <dependencies>
         <dependency>
