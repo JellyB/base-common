@@ -13,7 +13,6 @@ public class MyException extends RuntimeException implements Serializable {
 
     private ErrorResult errorResult;
     private String customMessage;//个性化信息
-
     //hessian序列化问题
     public MyException() {
 

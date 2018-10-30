@@ -23,6 +23,7 @@ public class SuccessResponse implements Result {
         this.data = data;
     }
 
+    @Override
     public int getCode() {
         return SUCCESS_CODE;
     }

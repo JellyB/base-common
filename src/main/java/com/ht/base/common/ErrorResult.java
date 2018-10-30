@@ -54,6 +54,7 @@ public class ErrorResult implements Result {
         this.message = message;
     }
 
+    @Override
     public int getCode() {
         return code;
     }
