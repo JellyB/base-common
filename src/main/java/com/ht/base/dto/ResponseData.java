@@ -3,6 +3,7 @@ package com.ht.base.dto;
 import com.ht.base.common.Result;
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 /**
  * @author zhengyi
@@ -10,6 +11,7 @@ import lombok.Data;
  **/
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 public class ResponseData implements Result {
     private Object data;
     private Integer code;
