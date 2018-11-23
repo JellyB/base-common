@@ -17,4 +17,10 @@ public class MyAssert {
         }
     }
 
+    public static <T extends RuntimeException> void RunTimeAssert(Supplier<Boolean> supplier, T exception){
+        if (!supplier.get()) {
+            throw exception;
+        }
+    }
+
 }
