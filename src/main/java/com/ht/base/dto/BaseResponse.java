@@ -3,7 +3,6 @@ package com.ht.base.dto;
 import com.ht.base.common.Result;
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 /**
  * @author zhengyi
