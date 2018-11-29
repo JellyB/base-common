@@ -15,4 +15,6 @@ public class ApolloServiceConstant {
     public static final String MONGO = "tiku.mongo-cluster";
     public static final String TIKU_DB = "tiku.db";
     public static final String TIKU_REDIS = "tiku.redis-cluster";
+    public static final String USER_CENTER_CLIENT = "tiku.user-center-client";
+
 }
