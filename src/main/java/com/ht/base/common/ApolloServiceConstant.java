@@ -16,5 +16,6 @@ public class ApolloServiceConstant {
     public static final String TIKU_DB = "tiku.db";
     public static final String TIKU_REDIS = "tiku.redis-cluster";
     public static final String USER_CENTER_CLIENT = "tiku.user-center-client";
+    public static final String DATA_ANALYSIS = "tiku.data-analysis";
 
 }
