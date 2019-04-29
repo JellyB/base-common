@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.ht.base</groupId>
-        <artifactId>parent-base</artifactId>
+        <groupId>com.huatu</groupId>
+        <artifactId>base-parent</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
     <groupId>com.ht.base.common</groupId>
     <artifactId>base-common</artifactId>
-    <version>${default.version}</version>
+    <version>1.0-${project.environment}-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
